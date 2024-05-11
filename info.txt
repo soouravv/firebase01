@@ -1,0 +1,8 @@
+https://weather-rpi-fe5c2-default-rtdb.firebaseio.com/
+
+AIzaSyA5Vymrg1xaLdSDfb7RXPxnwMF6boyKc80
+
+weatherproject
+
+
+weather-rpi-fe5c2
